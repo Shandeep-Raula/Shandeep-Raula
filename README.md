@@ -2,7 +2,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/shandeep-raula-708abb216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/linkedin.svg" alt="shandeep raula" height="35" width="35" padding="40"/></a>
+<a href="https://www.linkedin.com/in/shandeep-raula-708abb216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/linkedin.svg" alt="shandeep raula" height="35" width="35"/></a>
 <a href="https://kaggle.com/shandeep_2003" target="blank"><img align="center" src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/kaggle.svg" alt="shandeep_2003" height="35" width="35" /></a>
 <a href="https://medium.com/@shandeepra" target="blank"><img align="center" src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/medium.svg" alt="@shandeepra" height="35" width="35" /></a>
 <a href="https://www.hackerrank.com/@shandeepra" target="blank"><img align="center" src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/kackerrank.svg" alt="@shandeepra" height="35" width="35" /></a>
