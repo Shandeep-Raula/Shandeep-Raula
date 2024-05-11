@@ -9,8 +9,7 @@
 <a href="https://www.leetcode.com/shandeep_2003" target="blank"><img align="center" src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/leetcode.svg" alt="shandeep_2003" height="35" width="35" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="center">Languages:</h3>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shandeep-raula&show_icons=true&locale=en" alt="shandeep-raula" /></p>
