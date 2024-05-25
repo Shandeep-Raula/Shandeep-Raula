@@ -1,4 +1,4 @@
-use
+oouse
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -15,5 +15,3 @@ use
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shandeep-raula&show_icons=true&locale=en" alt="shandeep-raula" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shandeep-raula&" alt="shandeep-raula" /> 
-</p>
-https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800
