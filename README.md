@@ -18,7 +18,7 @@
 
 ### Tools:
 
-| Jupyter | VSCode | Git | Comand |
+| Jupyter | VSCode | Git | Command |
 |----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/pngegg.png" title="VSCode" alt="VSCode" width="80" height="80"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux Comand" alt="Comand" width="55" height="55"/> |
 
