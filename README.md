@@ -22,9 +22,9 @@
 |----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/pngegg.png" title="VSCode" alt="VSCode" width="80" height="80"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux Comand" alt="Comand" width="55" height="55"/> |
 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shandeep-raula&show_icons=true&locale=en&layout=compact" alt="shandeep-raula" /></p>
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shandeep-raula&show_icons=true&locale=en" alt="shandeep-raula" /></p>
 
