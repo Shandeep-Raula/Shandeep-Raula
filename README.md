@@ -33,9 +33,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shandeep-Raula&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+
 
 
 
