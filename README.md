@@ -16,6 +16,14 @@
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib"  alt="Matplotlib" width="60" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/download-removebg-preview.png" title="Seaborn" alt="Seaborn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/plotly-removebg-preview.png" title="Plotly" alt="Plotly" width="60" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="55" height="55"/>|
 
 
+### Database:
+
+| PostgrSQL | MySQL |
+|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="VSCode" alt="VSCode" width="80" height="80"/> |
+
+
+
 ### Tools:
 
 | Jupyter | VSCode | Git | Command |
