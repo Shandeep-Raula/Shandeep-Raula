@@ -9,7 +9,7 @@
 <a href="https://www.leetcode.com/shandeep_2003" target="blank"><img align="center" src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/leetcode.svg" alt="shandeep_2003" height="35" width="35" /></a>
 </p>
 
-### Best frameworks and main libraries for Python3:
+### Best frameworks and main libraries for Python:
 
 | Python | Pandas | Matplotlib | Numpy | Seaborn | Sklearn | Plotly | Streamlit |
 |----------|----------|----------|----------|----------|----------|----------|----------|
