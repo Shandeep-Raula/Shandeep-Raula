@@ -20,7 +20,7 @@
 
 | PostgrSQL | MySQL | Snowflake |
 |----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="VSCode" alt="VSCode" width="80" height="80"/> | <img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Snowflake-Emblem.png" title="VSCode" alt="VSCode" width="90" height="60"/>
+| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgrSQL" alt="PostgrSQL" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="80" height="80"/> | <img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Snowflake-Emblem.png" title="Snowflake" alt="Snowflake" width="90" height="60"/>
 
 
 
@@ -35,7 +35,8 @@
 
 | Data Analytics <br> Professional Certificate <br> by Google | Python Essential <br> by CISCO |
 |----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="VSCode" alt="VSCode" width="80" height="80"/> |
+| <div align="center"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Google%20Data%20Analytics%20Professional%20Certificate.png" title="Google" alt="Google" width="100" height="100"/></div> | <div align="center"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Python%20Essentials%201.png" title="Cisco" alt="Cisco" width="90" height="90"/></div> |
+
 
 
 ### GitHub Stats:
