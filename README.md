@@ -35,7 +35,7 @@
 
 | Data Analytics <br> Professional Certificate <br> by Google | Python Essential <br> by CISCO |
 |----------|----------|
-| <div align="center"><a href="https://www.credly.com/badges/cbc04d84-b136-4e2d-a72b-4bd0f331dd71/public_url" target="blank"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Google%20Data%20Analytics%20Professional%20Certificate.png" title="Google" alt="Google" width="120" height="120"/></div> | <div align="center"><a href="https://www.credly.com/badges/81b4293f-dc36-4203-a214-8a60d47e9cba/public_url" target="blank"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Python%20Essentials%201.png"  title="Cisco" alt="Cisco" width="100" height="100"/></div> |
+| <div align="center"><a href="https://www.credly.com/badges/81b4293f-dc36-4203-a214-8a60d47e9cba/public_url" target="blank"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Google%20Data%20Analytics%20Professional%20Certificate.png" title="Google" alt="Google" width="120" height="120"/></div> | <div align="center"><a href="https://www.credly.com/badges/cbc04d84-b136-4e2d-a72b-4bd0f331dd71/public_url" target="blank"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Python%20Essentials%201.png"  title="Cisco" alt="Cisco" width="100" height="100"/></div> |
 
 
 
