@@ -2,11 +2,11 @@
 
 <h3>Connect with me:</h3>
 <p>
-<a href="https://www.linkedin.com/in/shandeep-raula-708abb216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/linkedin.svg" alt="shandeep raula" height="35" width="35"/></a>
-<a href="https://www.kaggle.com/shandeep777" target="blank"><img align="center" src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/kaggle.svg" alt="shandeep_2003" height="35" width="35" /></a>
-<a href="https://medium.com/@shandeepra" target="blank"><img align="center" src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/medium.svg" alt="@shandeepra" height="35" width="35" /></a>
-<a href="https://www.hackerrank.com/@shandeepra" target="blank"><img align="center" src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/kackerrank.svg" alt="@shandeepra" height="35" width="35" /></a>
-<a href="https://www.leetcode.com/shandeep_2003" target="blank"><img align="center" src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/leetcode.svg" alt="shandeep_2003" height="35" width="35" /></a>
+<a href="https://www.linkedin.com/in/shandeep-raula-708abb216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img align="center" src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/linkedin.svg" alt="shandeep raula" height="35" width="35"/></a>
+<a href="https://www.kaggle.com/shandeep777" target="_blank"><img align="center" src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/kaggle.svg" alt="shandeep_2003" height="35" width="35" /></a>
+<a href="https://medium.com/@shandeepra" target="_blank"><img align="center" src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/medium.svg" alt="@shandeepra" height="35" width="35" /></a>
+<a href="https://www.hackerrank.com/@shandeepra" target="_blank"><img align="center" src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/kackerrank.svg" alt="@shandeepra" height="35" width="35" /></a>
+<a href="https://www.leetcode.com/shandeep_2003" target="_blank"><img align="center" src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/leetcode.svg" alt="shandeep_2003" height="35" width="35" /></a>
 </p>
 
 ### Best frameworks and main libraries for Python:
@@ -35,14 +35,14 @@
 
 | Data Analytics <br> Professional Certificate <br> by Google | Python Essential <br> by CISCO |
 |----------|----------|
-| <div align="center"><a href="https://www.credly.com/badges/81b4293f-dc36-4203-a214-8a60d47e9cba/public_url" target="blank"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Google%20Data%20Analytics%20Professional%20Certificate.png" title="Google" alt="Google" width="120" height="120"/></div> | <div align="center"><a href="https://www.credly.com/badges/cbc04d84-b136-4e2d-a72b-4bd0f331dd71/public_url" target="blank"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Python%20Essentials%201.png"  title="Cisco" alt="Cisco" width="100" height="100"/></div> |
+| <div align="center"><a href="https://www.credly.com/badges/81b4293f-dc36-4203-a214-8a60d47e9cba/public_url" target="_blank"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Google%20Data%20Analytics%20Professional%20Certificate.png" title="Google" alt="Google" width="120" height="120"/></div> | <div align="center"><a href="https://www.credly.com/badges/cbc04d84-b136-4e2d-a72b-4bd0f331dd71/public_url" target="_blank"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Python%20Essentials%201.png"  title="Cisco" alt="Cisco" width="100" height="100"/></div> |
 
 
 ### Achievements:
 
 | Introduction <br> to Pandas|
 |----------|
-| <div align="center"><a href="https://leetcode.com/medal/?showImg=0&id=6163756&isLevel=false" target="blank"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Pandas_GIF.gif" title="Google" alt="Google" width="120" height="120"/></div> |
+| <div align="center"><a href="https://leetcode.com/medal/?showImg=0&id=6163756&isLevel=false" target="_blank"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Pandas_GIF.gif" title="Pandas" alt="Pandas" width="120" height="120"/></div> |
 
 
  [![Download Resume](https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Download_Resume_Button.png)](./Shandeep_Raula.pdf)
