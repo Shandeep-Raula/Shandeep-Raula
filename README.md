@@ -20,22 +20,22 @@
 
 | PostgrSQL | MySQL | Snowflake |
 |----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgrSQL" alt="PostgrSQL" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="80" height="80"/> | <img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Snowflake-Emblem.png" title="Snowflake" alt="Snowflake" width="90" height="60"/>
+| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgrSQL" alt="PostgrSQL" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="80" height="80"/> | <img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Snowflake-Emblem.png" title="Snowflake" alt="Snowflake" width="90" height="60"/> |
 
 
 
 ### Tools:
 
-| Jupyter | VSCode | Git | Command | Google Colab |
+| Jupyter | VSCode | Git | Command | Google <br> Colab |
 |----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/pngegg.png" title="VSCode" alt="VSCode" width="80" height="80"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux Comand" alt="Comand" width="55" height="55"/> |<img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" alt="Google Colab" width="55" height="55" style="display: block; margin: auto;"> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/pngegg.png" title="VSCode" alt="VSCode" width="80" height="80"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux Comand" alt="Comand" width="55" height="55"/> |<img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" alt="Google Colab" width="55" height="55">|
 
 
 ### Certifications:
 
 | Data Analytics <br> Professional Certificate <br> by Google | Python Essential <br> by CISCO |
 |----------|----------|
-| <div align="center"><a href="https://www.credly.com/badges/81b4293f-dc36-4203-a214-8a60d47e9cba/public_url" target="_blank"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Google%20Data%20Analytics%20Professional%20Certificate.png" title="Google" alt="Google" width="120" height="120"/></div> | <div align="center"><a href="https://www.credly.com/badges/cbc04d84-b136-4e2d-a72b-4bd0f331dd71/public_url" target="_blank"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Python%20Essentials%201.png"  title="Cisco" alt="Cisco" width="100" height="100"/></div> |
+| <div align="center"><a href="https://www.credly.com/badges/81b4293f-dc36-4203-a214-8a60d47e9cba/public_url" target="_blank"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Google%20Data%20Analytics%20Professional%20Certificate.png" title="Google" alt="Google" width="120" height="120"/></div> | <div align="center"><a href="https://www.credly.com/badges/cbc04d84-b136-4e2d-a72b-4bd0f331dd71/public_url" target="_blank"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Python%20Essentials%201.png"  title="Cisco" alt="Cisco" width="100" height="100"/></div>|
 
 
 ### Achievements:
