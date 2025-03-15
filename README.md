@@ -16,11 +16,14 @@
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Pandas"  alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib"  alt="Matplotlib" width="60" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/download-removebg-preview.png" title="Seaborn" alt="Seaborn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/plotly-removebg-preview.png" title="Plotly" alt="Plotly" width="60" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="55" height="55"/>|
 
 
+
+
+
 ### Database & Data Warehouse:
 
 | PostgrSQL | MySQL | Snowflake |
 |----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgrSQL" alt="PostgrSQL" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="80" height="80"/> | <img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Snowflake-Emblem.png" title="Snowflake" alt="Snowflake" width="90" height="60"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgrSQL" alt="PostgrSQL" width="70" height="70"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="80" height="80"/>| <img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Snowflake-Emblem.png" title="Snowflake" alt="Snowflake" width="90" height="60"/> 
 
 
 
@@ -28,7 +31,7 @@
 
 | Jupyter | VSCode | Git | Command | Google <br> Colab |
 |----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/pngegg.png" title="VSCode" alt="VSCode" width="80" height="80"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux Comand" alt="Comand" width="55" height="55"/> |<img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" alt="Google Colab" width="55" height="55">|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>| <img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/pngegg.png" title="VSCode" alt="VSCode" width="80" height="80"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux Comand" alt="Comand" width="55" height="55"/>| <img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" alt="Google Colab" width="55" height="55">|
 
 
 ### Certifications:
