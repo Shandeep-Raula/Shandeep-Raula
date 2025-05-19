@@ -43,9 +43,9 @@
 
 ### Achievements:
 
-| Introduction <br> to Pandas|
-|----------|
-| <div align="center"><a href="https://leetcode.com/medal/?showImg=0&id=6163756&isLevel=false" target="_blank"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Pandas_GIF.gif" title="Pandas" alt="Pandas" width="120" height="120"/></div> |
+| Introduction <br> to Pandas| SQL 50 |
+|----------|----------|
+| <div align="center"><a href="https://leetcode.com/medal/?showImg=0&id=6163756&isLevel=false" target="_blank"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Pandas_GIF.gif" title="Pandas" alt="Pandas" width="120" height="120"/></div> |<div align="center"><a href="https://leetcode.com/medal/?showImg=0&id=7075720&isLevel=false" target="_blank"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/SQL_GIF.gif" title="Pandas" alt="Pandas" width="120" height="120"/></div> |
 
 
  [![Download Resume](https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Download_Resume_Button.png)](./Shandeep_Raula.pdf)
